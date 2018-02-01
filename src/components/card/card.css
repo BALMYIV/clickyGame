@@ -1,0 +1,21 @@
+.card {
+
+  border-radius: 2px;
+  height: 218px;
+  margin: 2rem;
+  position: relative;
+  float: left; 
+  width: 155px;
+  display: block;
+}
+
+.card > .img-container {
+
+  height: 100%;
+  overflow: hidden;
+}
+.card > .img-container > img {
+  
+  width: 100%;
+}
+
